@@ -22,7 +22,7 @@ makeCacheMatrix <- function(x = matrix()) {
        set_inverse = set_inverse,
        get_inverse = get_inverse)   ##list of functions returned
 
-}
+} 
 
 
 ## Write a short comment describing this function
